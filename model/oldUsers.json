@@ -1,0 +1,19 @@
+[
+  {
+    "username": "ritik",
+    "password": "$2b$10$40RIpI6km9/a3E8LE9HS1u6RVhW9u7gXmcAlHAnx/ELkq1jZFCYB2"
+  },
+  {
+    "username": "gaurav",
+    "password": "$2b$10$89cuGUjhtdza4wjqGxVB.eLGrxehQawfnK11f5d7VCfrKXIstSh5S"
+  },
+  {
+    "username": "saurabh",
+    "password": "$2b$10$dCzV3sON58lLte8FSNWcpebRvkITBTtCjhvya2lZ4yWikwhAYQDLy"
+  },
+  {
+    "username": "rahul",
+    "password": "$2b$10$pfd/FvsnPvukDTEjZYw.BOPdjnbTA7mctcyDRJaPk2NxOwKcdFWnC",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsIiwiaWF0IjoxNjgwNDQwOTM5LCJleHAiOjE2ODA1MjczMzl9.zjBQXeVAztgO1Bmj5NrTFYWuTzHua_jW36LWr6h4_Bg"
+  }
+]
