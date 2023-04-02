@@ -7,14 +7,14 @@ const corsOptions = require("./config/corsOptions");
 const { logger } = require("./middleware/logEvents");
 const errorHandler = require("./middleware/errorHandler");
 const verifyJWT = require("./middleware/verifyJWT");
-// const mongoose = require("mongoose");
-// const connectDB = require("./config/dbConn");
+const mongoose = require("mongoose");
+const connectDB = require("./config/dbConn");
 const cookieParser = require("cookie-parser");
 const credentials = require("./middleware/credentials");
 const PORT = process.env.PORT || 3600;
 
 // connect to MOngoDb
-// connectDB();
+connectDB();
 
 // custom middleware logger
 app.use(logger);
